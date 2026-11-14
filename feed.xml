@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>国际新闻早报</title>
+<link>https://frgzk.github.io/qwen-podcast/</link>
+<description>每天早晚各一期，精选路透社、美联社、彭博社、BBC、卫报、半岛电视台、CNBC 等国际媒体过去十二小时的重要新闻。</description>
+<language>zh-CN</language>
+<itunes:author>千问Go!</itunes:author>
+<itunes:summary>每天早晚各一期，国际媒体重要新闻精选，附原文链接。</itunes:summary>
+<itunes:image href="https://frgzk.github.io/qwen-podcast/cover.png"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+<itunes:type>episodic</itunes:type>
+<atom:link href="https://frgzk.github.io/qwen-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Sat, 14 Nov 2026 00:30:00 +0800</lastBuildDate>
+<item>
+<title>第1期｜2026-11-14 国际新闻早报</title>
+<description>本期聚焦：特朗普称美国不需要与伊朗达成协议、美军中央司令部否认备战；库什纳称下一轮俄乌和谈纳入欧洲；APEC 深圳峰会进入倒计时；英伟达震荡外溢、五家 AI 公司被起诉。</description>
+<content:encoded><![CDATA[本期聚焦：特朗普称美国不需要与伊朗达成协议、美军中央司令部否认备战；库什纳称下一轮俄乌和谈纳入欧洲；APEC 深圳峰会进入倒计时；英伟达震荡外溢、五家 AI 公司被起诉。]]></content:encoded>
+<guid isPermaLink="false">ep-2026-11-14</guid>
+<pubDate>Sat, 14 Nov 2026 00:30:00 +0800</pubDate>
+<enclosure url="https://frgzk.github.io/qwen-podcast/audio/ep-2026-11-14.mp3" length="3590707" type="audio/mpeg"/>
+<itunes:duration>4:59</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
+</channel>
+</rss>
