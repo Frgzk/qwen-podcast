@@ -12,7 +12,17 @@
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://frgzk.github.io/qwen-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 20:25:00 +0800</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 22:05:00 +0800</lastBuildDate>
+<item>
+<title>第3期｜2026-11-14 深夜国际新闻深度播客（超长版）</title>
+<description>本期深度聚焦七大国际话题：俄乌战争创纪录伤亡与阿布扎比和谈突破（大规模换俘协议）、中东多线升温（胡塞袭击沙特能源设施、卡塔尔土耳其防御同盟、加沙医院遇袭、伊朗局势）、APEC深圳峰会与中美俄三方博弈、美国关税政策在中期选举后的重新校准、北约欧洲2500亿美元军备加速、全球AI监管三大体系分裂、全球金融市场在增长与衰退之间走钢丝。</description>
+<content:encoded><![CDATA[本期深度聚焦七大国际话题：俄乌战争创纪录伤亡与阿布扎比和谈突破（大规模换俘协议）、中东多线升温（胡塞袭击沙特能源设施、卡塔尔土耳其防御同盟、加沙医院遇袭、伊朗局势）、APEC深圳峰会与中美俄三方博弈、美国关税政策在中期选举后的重新校准、北约欧洲2500亿美元军备加速、全球AI监管三大体系分裂、全球金融市场在增长与衰退之间走钢丝。]]></content:encoded>
+<guid isPermaLink="false">ep-2026-11-14-4</guid>
+<pubDate>Sat, 14 Nov 2026 22:05:00 +0800</pubDate>
+<enclosure url="https://frgzk.github.io/qwen-podcast/audio/ep-2026-11-14-4.mp3" length="16793107" type="audio/mpeg"/>
+<itunes:duration>17:29</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
 <item>
 <title>第2期｜2026-11-14 晚间国际媒体新闻简报（加长版）</title>
 <description>本期深度聚焦：中美俄"新雅尔塔"三方峰会酝酿、俄乌冲突全线动态（普京强硬表态、泽连斯基公投构想、星盾中断、最大换俘筹备）、中东多线升温（胡塞与联军互袭、霍尔木兹油轮触雷、土卡防御协议、加沙人道危机）、美国FAA全国停飞与微软全球宕机、英伟达连跌六周与AI估值风险、APEC深圳峰会与亚太外交密集互动、星舰第15次试飞与欧洲科技自主。</description>
