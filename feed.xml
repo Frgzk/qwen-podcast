@@ -12,9 +12,6 @@
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://frgzk.github.io/qwen-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-<lastBuildDate>Sat, 14 Nov 2026 00:30:00 +0800</lastBuildDate>
-=======
 <lastBuildDate>Sat, 14 Nov 2026 19:55:00 +0800</lastBuildDate>
 <item>
 <title>第2期｜2026-11-14 晚间国际媒体新闻简报</title>
@@ -26,7 +23,6 @@
 <itunes:duration>5:36</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 </item>
->>>>>>> gh-pages
 <item>
 <title>第1期｜2026-11-14 国际新闻早报</title>
 <description>本期聚焦：特朗普称美国不需要与伊朗达成协议、美军中央司令部否认备战；库什纳称下一轮俄乌和谈纳入欧洲；APEC 深圳峰会进入倒计时；英伟达震荡外溢、五家 AI 公司被起诉。</description>
