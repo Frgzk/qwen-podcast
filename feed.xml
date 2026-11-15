@@ -12,7 +12,17 @@
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://frgzk.github.io/qwen-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 22:05:00 +0800</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 08:00:00 +0800</lastBuildDate>
+<item>
+<title>第4期｜2026-11-15 早间国际新闻深度播客（超长版）</title>
+<description>本期深度聚焦八大国际话题：中美俄历史性三方峰会（深圳APEC核武与伊朗议题）、俄乌战争"以土地换北约"方案引发争议、中东多线冲突持续升温（伊朗后遗症、霍尔木兹海峡争夺、加沙重建困局）、美国FAA全国停飞事件（9·11以来最严重航空系统瘫痪）、全球贸易格局撕裂与重组（中美首次贸易理事会议）、拉美政治震荡（智利燃油危机与秘鲁暴力）、AI地缘政治三大阵营分裂、欧洲军备竞赛加速（德国创纪录预算与Rheinmetall坦克工厂）。</description>
+<content:encoded><![CDATA[本期深度聚焦八大国际话题：中美俄历史性三方峰会（深圳APEC核武与伊朗议题）、俄乌战争"以土地换北约"方案引发争议、中东多线冲突持续升温（伊朗后遗症、霍尔木兹海峡争夺、加沙重建困局）、美国FAA全国停飞事件（9·11以来最严重航空系统瘫痪）、全球贸易格局撕裂与重组（中美首次贸易理事会议）、拉美政治震荡（智利燃油危机与秘鲁暴力）、AI地缘政治三大阵营分裂、欧洲军备竞赛加速（德国创纪录预算与Rheinmetall坦克工厂）。]]></content:encoded>
+<guid isPermaLink="false">ep-2026-11-15</guid>
+<pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://frgzk.github.io/qwen-podcast/audio/ep-2026-11-15.mp3" length="15755251" type="audio/mpeg"/>
+<itunes:duration>16:24</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+</item>
 <item>
 <title>第3期｜2026-11-14 深夜国际新闻深度播客（超长版）</title>
 <description>本期深度聚焦七大国际话题：俄乌战争创纪录伤亡与阿布扎比和谈突破（大规模换俘协议）、中东多线升温（胡塞袭击沙特能源设施、卡塔尔土耳其防御同盟、加沙医院遇袭、伊朗局势）、APEC深圳峰会与中美俄三方博弈、美国关税政策在中期选举后的重新校准、北约欧洲2500亿美元军备加速、全球AI监管三大体系分裂、全球金融市场在增长与衰退之间走钢丝。</description>
